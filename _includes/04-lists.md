@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. pizza
+2. burgers
+3. wings
+  3a. hot
+  3b. lemon pepper
