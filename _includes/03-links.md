@@ -1,1 +1,1 @@
-[My Git] (https://github.com/PittsSD)
+[My Git](https://github.com/PittsSD)
